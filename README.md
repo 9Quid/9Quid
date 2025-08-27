@@ -14,7 +14,6 @@ My journey into cybersecurity began after falling victim to a vishing scam. Sinc
 I’m currently working on hands-on cybersecurity projects, including setting up a SOC lab, practicing threat detection, and exploring cloud security tools.
 
 ### Projects
-### Projects
 - **[WindowsServer2022-Lab](https://github.com/9Quid/WindowsServer2022-Lab)** – Deployed a small Active Directory lab using Windows Server 2022. Configured AD DS, DNS, DHCP, joined Windows 11 and Linux clients, and practiced user/group management, file shares, permissions, and IAM tasks.
 
 ## SKILLS & TOOLS
