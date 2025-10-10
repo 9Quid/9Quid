@@ -15,6 +15,7 @@ I’m currently working on hands-on cybersecurity projects, including setting up
 
 ## PROJECTS
 - **[WindowsServer2022-Lab](https://github.com/9Quid/WindowsServer2022-Lab)** – Deployed a small Active Directory lab using Windows Server 2022. Configured AD DS, DNS, DHCP, joined Windows 11 and Linux clients, and practiced user/group management, file shares, permissions, and IAM tasks.
+- **[WindowsServer2022-Vulnerability-Management-Lab](https://github.com/9Quid/WindowsServer2022-Vulnerability-Management-Lab)** - Extended my Windows Server 2022 homelab by adding intentionally vulnerable Windows and Linux systems. Used Qualys Cloud Agent to identify, prioritize, and remediate OS and application vulnerabilities, achieving about 95% remediation.
 
 ## SKILLS & TOOLS
 ### Network
