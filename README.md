@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eva%20Harris-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eva-ha)
 
 ## ABOUT 
-# Entry-level SOC Analyst | Exploring cybersecurity, cloud security & IT | Self-learning and building hands-on projects.
+# Junior SOC Analyst | Exploring cybersecurity, cloud security & IT | Self-learning and building hands-on projects.
 
 My journey into cybersecurity began after falling victim to a vishing scam. Since then, I’ve embraced this path, learning about the threat landscape and how to help defend organizations.
 
@@ -16,6 +16,8 @@ I’m currently working on hands-on cybersecurity projects, including setting up
 ## PROJECTS
 - **[WindowsServer2022-Lab](https://github.com/9Quid/WindowsServer2022-Lab)** – Deployed a small Active Directory lab using Windows Server 2022. Configured AD DS, DNS, DHCP, joined Windows 11 and Linux clients, and practiced user/group management, file shares, permissions, and IAM tasks.
 - **[WindowsServer2022-Vulnerability-Management-Lab](https://github.com/9Quid/WindowsServer2022-Vulnerability-Management-Lab)** - Extended my Windows Server 2022 homelab by adding intentionally vulnerable Windows and Linux systems. Used Qualys Cloud Agent to identify, prioritize, and remediate OS and application vulnerabilities, achieving about 95% remediation.
+- **[Microsoft365-Admin-Lab](https://github.com/9Quid/Microsoft365-Admin-Lab)** - This project demonstrates the setup, administration, and security hardening of a Microsoft 365 tenant, designed to simulate a small business environment of 24 employees. The goal was to go beyond basic user creation and implement a modern, secure, and manageable cloud infrastructure based on Zero Trust principles.
+
 
 ## SKILLS & TOOLS
 ### Network
