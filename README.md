@@ -6,10 +6,6 @@
 
 My journey into cybersecurity began after falling victim to a vishing scam. Since then, I’ve embraced this path, learning about the threat landscape and how to help defend organizations.
 
-### CURRENTLY LEARNING
-- CompTIA Network+
-- CompTIA Security+
-
 ## OBJECTIVE
 I’m currently working on hands-on cybersecurity projects, including setting up a SOC lab, practicing threat detection, and exploring cloud security tools.
 
